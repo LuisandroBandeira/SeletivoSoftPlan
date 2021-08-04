@@ -1,0 +1,964 @@
+Will track coverage for:ufPrincipal
+Will track coverage for:ufTarefa1
+Will track coverage for:ufTarefa2
+Will track coverage for:ufTarefa3
+Will track coverage for:uProgresso
+Trying to start C:\Seletivo SoftPlan\ProvaDelphiApp\ProvaDelphiApp.exe with the Parameters :
+Started successfully
+Create Process:2608 name:C:\Seletivo SoftPlan\ProvaDelphiApp\ProvaDelphiApp.exe
+Adding breakpoints for module:C:\Seletivo SoftPlan\ProvaDelphiApp\ProvaDelphiApp.exe
+Module name "System.Types" did not match module from address name "System.UITypes" at address:00012FEF
+Module name "System.Generics.Defaults" did not match module from address name "System.Generics.Collections" at address:00100970
+Module name "System.Generics.Collections" did not match module from address name "System.Messaging" at address:00104779
+Module name "Winapi.Wincodec" did not match module from address name "System.StrUtils" at address:0011705C
+Module name "System.TimeSpan" did not match module from address name "System.DateUtils" at address:00118F80
+Module name "System.IOUtils" did not match module from address name "System.IniFiles" at address:00126A5C
+Module name "System.Win.Registry" did not match module from address name "System.UIConsts" at address:0012DF50
+Module name "Winapi.CommCtrl" did not match module from address name "System.ImageList" at address:00143BEC
+Module name "System.Diagnostics" did not match module from address name "System.SyncObjs" at address:00146FC8
+Module name "Winapi.MultiMon" did not match module from address name "Winapi.Imm" at address:00149FB5
+Module name "Winapi.Imm" did not match module from address name "Vcl.ActnList" at address:0014A098
+Module name "Winapi.Dwmapi" did not match module from address name "Vcl.GraphUtil" at address:0014D362
+Module name "Vcl.StdCtrls" did not match module from address name "Winapi.ShlObj" at address:00182ADD
+Module name "Winapi.ShlObj" did not match module from address name "Winapi.WinSpool" at address:00182CC4
+Module name "Vcl.ImgList" did not match module from address name "Vcl.Menus" at address:001FAA41
+Module name "Winapi.ShellScaling" did not match module from address name "Winapi.FlatSB" at address:00205194
+Module name "System.Win.TaskbarCore" did not match module from address name "Vcl.Forms" at address:002057C0
+Module name "System.MaskUtils" did not match module from address name "Data.DBCommonTypes" at address:002315FD
+Module name "FireDAC.Phys.Intf" did not match module from address name "FireDAC.DApt.Column" at address:002C2ADA
+Module name "FireDAC.DApt.Column" did not match module from address name "FireDAC.DApt.Intf" at address:002C3681
+Module name "FireDAC.DApt.Intf" did not match module from address name "FireDAC.Stan.Factory" at address:002C3AAB
+Module name "FireDAC.Comp.DataSet" did not match module from address name "FireDAC.Comp.UI" at address:002F461C
+Module name "FireDAC.Phys.SQLPreprocessor" did not match module from address name "FireDAC.Comp.Client" at address:003018EB
+Module name "FireDAC.Phys.SQLGenerator" did not match module from address name "FireDAC.Phys.Meta" at address:0032FAB7
+Module name "FireDAC.Phys.Meta" did not match module from address name "FireDAC.Phys" at address:003377AF
+Module name "FireDAC.Phys.IBDef" did not match module from address name "FireDAC.Phys.IBBase" at address:0037ECD9
+Module name "FireDAC.Phys.IBBase" did not match module from address name "FireDAC.Phys.FBDef" at address:00387157
+Module name "FireDAC.Phys.FBDef" did not match module from address name "FireDAC.Phys.FB" at address:0038916B
+Module name "uspQuery" did not match module from address name "ufTarefa1" at address:0038C37B
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145585
+Adding breakpoint for ufTarefa1.TfTarefa1.BloqueiaTeclaEspaco in ufTarefa1.pas
+Creating class info for ufTarefa1 class TfTarefa1
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 89 BreakPoint at:0078D8C4
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145586
+Adding breakpoint for ufTarefa1.TfTarefa1.BloqueiaTeclaEspaco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 90 BreakPoint at:0078D8D3
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145587
+Adding breakpoint for ufTarefa1.TfTarefa1.BloqueiaTeclaEspaco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 91 BreakPoint at:0078D8DC
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145588
+Adding breakpoint for ufTarefa1.TfTarefa1.BloqueiaTeclaEspaco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 92 BreakPoint at:0078D8E4
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145589
+Adding breakpoint for ufTarefa1.TfTarefa1.btnGeraSQLClick in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 95 BreakPoint at:0078D8E8
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145590
+Adding breakpoint for ufTarefa1.TfTarefa1.btnGeraSQLClick in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 96 BreakPoint at:0078D8F4
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145591
+Adding breakpoint for ufTarefa1.TfTarefa1.btnGeraSQLClick in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 97 BreakPoint at:0078D8FC
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145592
+Adding breakpoint for ufTarefa1.TfTarefa1.CarregaPropriedadesListaSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 102 BreakPoint at:0078D900
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145593
+Adding breakpoint for ufTarefa1.TfTarefa1.CarregaPropriedadesListaSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 103 BreakPoint at:0078D923
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145594
+Adding breakpoint for ufTarefa1.TfTarefa1.CarregaPropriedadesListaSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 105 BreakPoint at:0078D967
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145595
+Adding breakpoint for ufTarefa1.TfTarefa1.CarregaPropriedadesListaSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 103 BreakPoint at:0078D972
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145596
+Adding breakpoint for ufTarefa1.TfTarefa1.CarregaPropriedadesListaSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 106 BreakPoint at:0078D9A6
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145597
+Adding breakpoint for ufTarefa1.TfTarefa1.CarregaPropriedadesListaSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 107 BreakPoint at:0078D9C3
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145598
+Adding breakpoint for ufTarefa1.TfTarefa1.FormClose in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 110 BreakPoint at:0078D9E8
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145599
+Adding breakpoint for ufTarefa1.TfTarefa1.FormClose in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 111 BreakPoint at:0078D9F7
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145600
+Adding breakpoint for ufTarefa1.TfTarefa1.FormClose in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 112 BreakPoint at:0078DA01
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145601
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 115 BreakPoint at:0078DA08
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145602
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 116 BreakPoint at:0078DA0F
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145603
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 117 BreakPoint at:0078DA1D
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145604
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 118 BreakPoint at:0078DA3D
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145605
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 119 BreakPoint at:0078DA5D
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145606
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 120 BreakPoint at:0078DA7D
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145607
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 121 BreakPoint at:0078DA8B
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145608
+Adding breakpoint for ufTarefa1.TfTarefa1.GeraSQL in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 122 BreakPoint at:0078DAA9
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145609
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 129 BreakPoint at:0078DAAC
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145610
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 130 BreakPoint at:0078DACE
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145611
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 131 BreakPoint at:0078DAD4
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145612
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 133 BreakPoint at:0078DB18
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145613
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 135 BreakPoint at:0078DB35
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145614
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 136 BreakPoint at:0078DB49
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145615
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 131 BreakPoint at:0078DB5A
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145616
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 138 BreakPoint at:0078DB8E
+Setting BreakPoint for module: ufTarefa1 unit ufTarefa1.pas addr:145617
+Adding breakpoint for ufTarefa1.TfTarefa1.removeLinhasEmBranco in ufTarefa1.pas
+TBreakPoint.Activate:
+Activate ufTarefa1.pas line 139 BreakPoint at:0078DBAB
+Module name "ufTarefa1" did not match module from address name "uProgresso" at address:0038CBDB
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145619
+Adding breakpoint for uProgresso.TProgresso.Contagem in uProgresso.pas
+Creating class info for uProgresso class TProgresso
+TBreakPoint.Activate:
+Activate uProgresso.pas line 52 BreakPoint at:0078DD9C
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145620
+Adding breakpoint for uProgresso.TProgresso.Contagem in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 53 BreakPoint at:0078DDA3
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145621
+Adding breakpoint for uProgresso.TProgresso.Contagem in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 54 BreakPoint at:0078DDA9
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145622
+Adding breakpoint for uProgresso.TProgresso.Contagem in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 55 BreakPoint at:0078DDBA
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145623
+Adding breakpoint for uProgresso.TProgresso.Contagem in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 56 BreakPoint at:0078DDC3
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145624
+Adding breakpoint for uProgresso.TProgresso.Contagem in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 57 BreakPoint at:0078DDCB
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145625
+Adding breakpoint for uProgresso.TProgresso.Execute in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 60 BreakPoint at:0078DDD0
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145626
+Adding breakpoint for uProgresso.TProgresso.Execute in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 63 BreakPoint at:0078DDDB
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145627
+Adding breakpoint for uProgresso.TProgresso.Execute in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 64 BreakPoint at:0078DDF6
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145628
+Adding breakpoint for uProgresso.TProgresso.Execute in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 61 BreakPoint at:0078DE01
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145629
+Adding breakpoint for uProgresso.TProgresso.Execute in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 66 BreakPoint at:0078DE0A
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145630
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 69 BreakPoint at:0078DE10
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145631
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 70 BreakPoint at:0078DE2B
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145632
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 71 BreakPoint at:0078DE37
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145633
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 72 BreakPoint at:0078DE40
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145634
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 73 BreakPoint at:0078DE49
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145635
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 74 BreakPoint at:0078DE53
+Setting BreakPoint for module: uProgresso unit uProgresso.pas addr:145636
+Adding breakpoint for uProgresso.TProgresso.InicializaExecucao in uProgresso.pas
+TBreakPoint.Activate:
+Activate uProgresso.pas line 75 BreakPoint at:0078DE5B
+Module name "uProgresso" did not match module from address name "ufTarefa2" at address:0038CE83
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145638
+Adding breakpoint for ufTarefa2.TfTarefa2.btExecutaThreadClick in ufTarefa2.pas
+Creating class info for ufTarefa2 class TfTarefa2
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 50 BreakPoint at:0078E324
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145639
+Adding breakpoint for ufTarefa2.TfTarefa2.btExecutaThreadClick in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 51 BreakPoint at:0078E330
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145640
+Adding breakpoint for ufTarefa2.TfTarefa2.btExecutaThreadClick in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 52 BreakPoint at:0078E338
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145641
+Adding breakpoint for ufTarefa2.TfTarefa2.ExecutarThreadProgressos in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 55 BreakPoint at:0078E33C
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145642
+Adding breakpoint for ufTarefa2.TfTarefa2.ExecutarThreadProgressos in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 56 BreakPoint at:0078E356
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145643
+Adding breakpoint for ufTarefa2.TfTarefa2.ExecutarThreadProgressos in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 57 BreakPoint at:0078E385
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145644
+Adding breakpoint for ufTarefa2.TfTarefa2.ExecutarThreadProgressos in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 58 BreakPoint at:0078E3B4
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145645
+Adding breakpoint for ufTarefa2.TfTarefa2.FormClose in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 61 BreakPoint at:0078E3DC
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145646
+Adding breakpoint for ufTarefa2.TfTarefa2.FormClose in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 62 BreakPoint at:0078E3EB
+Setting BreakPoint for module: ufTarefa2 unit ufTarefa2.pas addr:145647
+Adding breakpoint for ufTarefa2.TfTarefa2.FormClose in ufTarefa2.pas
+TBreakPoint.Activate:
+Activate ufTarefa2.pas line 63 BreakPoint at:0078E3F5
+Module name "ufTarefa2" did not match module from address name "Vcl.Mask" at address:0038D400
+Module name "Vcl.Mask" did not match module from address name "Vcl.Grids" at address:0038FA08
+Module name "Vcl.Buttons" did not match module from address name "Vcl.VDBConsts" at address:0039CF6C
+Module name "Vcl.DBGrids" did not match module from address name "Data.DBCommon" at address:003AE266
+Module name "Data.DBCommon" did not match module from address name "Datasnap.MidConst" at address:003B62A7
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158888
+Adding breakpoint for ufTarefa3.TfTarefa3.btTotalClick in ufTarefa3.pas
+Creating class info for ufTarefa3 class TfTarefa3
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 137 BreakPoint at:007E0DAC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158889
+Adding breakpoint for ufTarefa3.TfTarefa3.btTotalClick in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 138 BreakPoint at:007E0DCB
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158890
+Adding breakpoint for ufTarefa3.TfTarefa3.btTotalClick in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 139 BreakPoint at:007E0E33
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158891
+Adding breakpoint for ufTarefa3.TfTarefa3.btTotalDivisoesClick in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 142 BreakPoint at:007E0E54
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158892
+Adding breakpoint for ufTarefa3.TfTarefa3.btTotalDivisoesClick in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 143 BreakPoint at:007E0E73
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158893
+Adding breakpoint for ufTarefa3.TfTarefa3.btTotalDivisoesClick in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 144 BreakPoint at:007E0EDB
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158894
+Adding breakpoint for ufTarefa3.TfTarefa3.carregaValoresProjetos in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 149 BreakPoint at:007E0EFC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158895
+Adding breakpoint for ufTarefa3.TfTarefa3.carregaValoresProjetos in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 150 BreakPoint at:007E0F1B
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158896
+Adding breakpoint for ufTarefa3.TfTarefa3.carregaValoresProjetos in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 151 BreakPoint at:007E0F22
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158897
+Adding breakpoint for ufTarefa3.TfTarefa3.carregaValoresProjetos in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 150 BreakPoint at:007E0F80
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158898
+Adding breakpoint for ufTarefa3.TfTarefa3.carregaValoresProjetos in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 152 BreakPoint at:007E0F86
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158899
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 155 BreakPoint at:007E0FCC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158900
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 156 BreakPoint at:007E0FD5
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158901
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 158 BreakPoint at:007E0FE4
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158902
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 159 BreakPoint at:007E0FEC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158903
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 160 BreakPoint at:007E0FFF
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158904
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 161 BreakPoint at:007E1012
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158905
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 163 BreakPoint at:007E1025
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158906
+Adding breakpoint for ufTarefa3.TfTarefa3.criaColunasDataSet in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 164 BreakPoint at:007E1033
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158907
+Adding breakpoint for ufTarefa3.TfTarefa3.criaComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 167 BreakPoint at:007E1094
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158908
+Adding breakpoint for ufTarefa3.TfTarefa3.criaComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 168 BreakPoint at:007E109B
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158909
+Adding breakpoint for ufTarefa3.TfTarefa3.criaComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 169 BreakPoint at:007E10B2
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158910
+Adding breakpoint for ufTarefa3.TfTarefa3.criaComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 170 BreakPoint at:007E10C9
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158911
+Adding breakpoint for ufTarefa3.TfTarefa3.criaComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 171 BreakPoint at:007E10E0
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158912
+Adding breakpoint for ufTarefa3.TfTarefa3.criaComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 172 BreakPoint at:007E10E8
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158913
+Adding breakpoint for ufTarefa3.TfTarefa3.destruirComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 175 BreakPoint at:007E10EC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158914
+Adding breakpoint for ufTarefa3.TfTarefa3.destruirComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 176 BreakPoint at:007E10F3
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158915
+Adding breakpoint for ufTarefa3.TfTarefa3.destruirComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 177 BreakPoint at:007E1101
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158916
+Adding breakpoint for ufTarefa3.TfTarefa3.destruirComponentesDados in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 178 BreakPoint at:007E110F
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158917
+Adding breakpoint for ufTarefa3.TfTarefa3.divisao in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 181 BreakPoint at:007E1114
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158918
+Adding breakpoint for ufTarefa3.TfTarefa3.divisao in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 182 BreakPoint at:007E1120
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158919
+Adding breakpoint for ufTarefa3.TfTarefa3.divisao in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 183 BreakPoint at:007E112E
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158920
+Adding breakpoint for ufTarefa3.TfTarefa3.divisao in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 185 BreakPoint at:007E1153
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158921
+Adding breakpoint for ufTarefa3.TfTarefa3.divisao in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 187 BreakPoint at:007E1156
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158922
+Adding breakpoint for ufTarefa3.TfTarefa3.divisao in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 190 BreakPoint at:007E1172
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158923
+Adding breakpoint for ufTarefa3.TfTarefa3.FormClose in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 193 BreakPoint at:007E1180
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158924
+Adding breakpoint for ufTarefa3.TfTarefa3.FormClose in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 194 BreakPoint at:007E118F
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158925
+Adding breakpoint for ufTarefa3.TfTarefa3.FormClose in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 195 BreakPoint at:007E1197
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158926
+Adding breakpoint for ufTarefa3.TfTarefa3.FormClose in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 196 BreakPoint at:007E11A1
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158927
+Adding breakpoint for ufTarefa3.TfTarefa3.FormCreate in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 199 BreakPoint at:007E11A8
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158928
+Adding breakpoint for ufTarefa3.TfTarefa3.FormCreate in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 200 BreakPoint at:007E11B4
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158929
+Adding breakpoint for ufTarefa3.TfTarefa3.FormCreate in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 201 BreakPoint at:007E11BC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158930
+Adding breakpoint for ufTarefa3.TfTarefa3.pegaValorAleatorio in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 204 BreakPoint at:007E11C0
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158931
+Adding breakpoint for ufTarefa3.TfTarefa3.pegaValorAleatorio in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 205 BreakPoint at:007E11E2
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158932
+Adding breakpoint for ufTarefa3.TfTarefa3.pegaValorAleatorio in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 206 BreakPoint at:007E123D
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158933
+Adding breakpoint for ufTarefa3.TfTarefa3.preparaGrade in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 209 BreakPoint at:007E1278
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158934
+Adding breakpoint for ufTarefa3.TfTarefa3.preparaGrade in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 210 BreakPoint at:007E127F
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158935
+Adding breakpoint for ufTarefa3.TfTarefa3.preparaGrade in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 211 BreakPoint at:007E1287
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158936
+Adding breakpoint for ufTarefa3.TfTarefa3.preparaGrade in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 212 BreakPoint at:007E128F
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158937
+Adding breakpoint for ufTarefa3.TfTarefa3.preparaGrade in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 213 BreakPoint at:007E12A6
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158938
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 218 BreakPoint at:007E12AC
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158939
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 219 BreakPoint at:007E12B5
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158940
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 221 BreakPoint at:007E12BD
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158941
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 222 BreakPoint at:007E12CB
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158942
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 226 BreakPoint at:007E12DB
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158943
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 227 BreakPoint at:007E12FA
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158944
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 224 BreakPoint at:007E1308
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158945
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 230 BreakPoint at:007E131A
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158946
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 231 BreakPoint at:007E1328
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158947
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 233 BreakPoint at:007E1336
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158948
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotal in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 234 BreakPoint at:007E1342
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158949
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 241 BreakPoint at:007E1364
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158950
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 242 BreakPoint at:007E136D
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158951
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 244 BreakPoint at:007E1375
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158952
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 245 BreakPoint at:007E1383
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158953
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 249 BreakPoint at:007E1396
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158954
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 250 BreakPoint at:007E13B2
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158955
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 251 BreakPoint at:007E13C0
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158956
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 253 BreakPoint at:007E13E1
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158957
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 254 BreakPoint at:007E13FD
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158958
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 247 BreakPoint at:007E1418
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158959
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 258 BreakPoint at:007E142E
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158960
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 259 BreakPoint at:007E143C
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158961
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 261 BreakPoint at:007E144A
+Setting BreakPoint for module: ufTarefa3 unit ufTarefa3.pas addr:158962
+Adding breakpoint for ufTarefa3.TfTarefa3.somaTotalDivisoes in ufTarefa3.pas
+TBreakPoint.Activate:
+Activate ufTarefa3.pas line 263 BreakPoint at:007E1456
+Module name "ufTarefa3" did not match module from address name "ufPrincipal" at address:003E047F
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158964
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa1Click in ufPrincipal.pas
+Creating class info for ufPrincipal class TfTarefas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 36 BreakPoint at:007E18DC
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158965
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa1Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 37 BreakPoint at:007E18E8
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158966
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa1Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 38 BreakPoint at:007E1900
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158967
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa2Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 41 BreakPoint at:007E1904
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158968
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa2Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 42 BreakPoint at:007E1910
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158969
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa2Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 43 BreakPoint at:007E1928
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158970
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa3Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 46 BreakPoint at:007E192C
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158971
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa3Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 47 BreakPoint at:007E1938
+Setting BreakPoint for module: ufPrincipal unit ufPrincipal.pas addr:158972
+Adding breakpoint for ufPrincipal.TfTarefas.subMenuItemTarefa3Click in ufPrincipal.pas
+TBreakPoint.Activate:
+Activate ufPrincipal.pas line 48 BreakPoint at:007E1950
+Module name "ufPrincipal" did not match module from address name "ProvaDelphiApp" at address:003E095B
+Module name "Vcl.Controls" did not match module from address name "Vcl.StdCtrls" at address:003EB0F4
+Module name "Vcl.ComCtrls" did not match module from address name "Vcl.Dialogs" at address:003EB325
+Module name "Vcl.Dialogs" did not match module from address name "Vcl.ExtCtrls" at address:003EB3F8
+Module name "Vcl.ExtCtrls" did not match module from address name "Vcl.Themes" at address:003EB468
+Module name "FireDAC.Stan.Option" did not match module from address name "FireDAC.Stan.Async" at address:003EBD20
+Module name "FireDAC.DApt" did not match module from address name "FireDAC.Stan.Expr" at address:003EBDC8
+Module name "FireDAC.Comp.Client" did not match module from address name "FireDAC.Phys" at address:003EBF00
+Module name "FireDAC.Phys" did not match module from address name "FireDAC.Phys.IBMeta" at address:003EBF44
+Module name "Vcl.DBCtrls" did not match module from address name "Vcl.DBGrids" at address:003EC1B8
+Module Data.DB skipped
+Module Data.DBCommon skipped
+Module Data.FmtBcd skipped
+Module Data.SqlTimSt skipped
+Module Datasnap.DBClient skipped
+Module Datasnap.DSIntf skipped
+Module Datasnap.Provider skipped
+Module delayhlp skipped
+Module FireDAC.Comp.Client skipped
+Module FireDAC.Comp.DataSet skipped
+Module FireDAC.Comp.UI skipped
+Module FireDAC.DApt skipped
+Module FireDAC.DApt.Column skipped
+Module FireDAC.DApt.Intf skipped
+Module FireDAC.DatS skipped
+Module FireDAC.Phys skipped
+Module FireDAC.Phys.FB skipped
+Module FireDAC.Phys.FBDef skipped
+Module FireDAC.Phys.IBBase skipped
+Module FireDAC.Phys.IBCli skipped
+Module FireDAC.Phys.IBDef skipped
+Module FireDAC.Phys.IBMeta skipped
+Module FireDAC.Phys.IBWrapper skipped
+Module FireDAC.Phys.Intf skipped
+Module FireDAC.Phys.Meta skipped
+Module FireDAC.Phys.SQLGenerator skipped
+Module FireDAC.Phys.SQLPreprocessor skipped
+Module FireDAC.Stan.Async skipped
+Module FireDAC.Stan.Error skipped
+Module FireDAC.Stan.Expr skipped
+Module FireDAC.Stan.Factory skipped
+Module FireDAC.Stan.Intf skipped
+Module FireDAC.Stan.Option skipped
+Module FireDAC.Stan.Param skipped
+Module FireDAC.Stan.SQLTimeInt skipped
+Module FireDAC.Stan.Util skipped
+Module FireDAC.UI.Intf skipped
+Module GETMEM skipped
+Module ProvaDelphiApp skipped
+Module SysInit skipped
+Module System skipped
+Module System.Actions skipped
+Module System.AnsiStrings skipped
+Module System.Character skipped
+Module System.Character.12.1.0 skipped
+Module System.Classes skipped
+Module System.Contnrs skipped
+Module System.DateUtils skipped
+Module System.Diagnostics skipped
+Module System.Generics.Collections skipped
+Module System.Generics.Defaults skipped
+Module System.Hash skipped
+Module System.HelpIntfs skipped
+Module System.ImageList skipped
+Module System.IniFiles skipped
+Module System.Internal.ExcUtils skipped
+Module System.IOUtils skipped
+Module System.MaskUtils skipped
+Module System.Math skipped
+Module System.Messaging skipped
+Module System.Rtti skipped
+Module System.StrUtils skipped
+Module System.SyncObjs skipped
+Module System.SysUtils skipped
+Module System.TimeSpan skipped
+Module System.Types skipped
+Module System.TypInfo skipped
+Module System.UIConsts skipped
+Module System.UITypes skipped
+Module System.Variants skipped
+Module System.VarUtils skipped
+Module System.WideStrUtils skipped
+Module System.Win.ComObj skipped
+Module System.Win.Registry skipped
+Module System.Win.TaskbarCore skipped
+Module uspQuery skipped
+Module Vcl.ActnList skipped
+Module Vcl.Buttons skipped
+Module Vcl.Clipbrd skipped
+Module Vcl.ComCtrls skipped
+Module Vcl.Controls skipped
+Module Vcl.DBCtrls skipped
+Module Vcl.DbGrids skipped
+Module Vcl.DBLogDlg skipped
+Module Vcl.DBPWDlg skipped
+Module Vcl.Dialogs skipped
+Module Vcl.ExtCtrls skipped
+Module Vcl.Forms skipped
+Module Vcl.Graphics skipped
+Module Vcl.GraphUtil skipped
+Module Vcl.Grids skipped
+Module Vcl.ImgList skipped
+Module Vcl.Mask skipped
+Module Vcl.Menus skipped
+Module Vcl.Printers skipped
+Module Vcl.StdActns skipped
+Module Vcl.StdCtrls skipped
+Module Vcl.Themes skipped
+Module Winapi.ActiveX skipped
+Module Winapi.CommCtrl skipped
+Module Winapi.DwmApi skipped
+Module Winapi.FlatSB skipped
+Module Winapi.Imm skipped
+Module Winapi.Messages skipped
+Module Winapi.MsCTF skipped
+Module Winapi.MultiMon skipped
+Module Winapi.PsAPI skipped
+Module Winapi.ShellAPI skipped
+Module Winapi.ShellScaling skipped
+Module Winapi.SHFolder skipped
+Module Winapi.ShlObj skipped
+Module Winapi.UxTheme skipped
+Module Winapi.Wincodec skipped
+Module Winapi.Windows skipped
+Module Winapi.WinSpool skipped
+Module WindowsAPIs skipped
+Done adding  BreakPoints
+ReadProcessMemory error: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída
+GetModuleFileNameEx error: Identificador inválido
+Loading DLL at addr:77600000 (C:\WINDOWS\SysWOW64\KERNEL32.DLL) size :409600
+Done adding  BreakPoints
+UnLoading DLL:77600000
+Loading DLL at addr:76E20000 (C:\WINDOWS\SysWOW64\KERNELBASE.dll) size :1929216
+Done adding  BreakPoints
+Create thread:12436
+Create thread:4460
+Loading DLL at addr:76230000 (C:\WINDOWS\SysWOW64\shell32.dll) size :5503488
+Done adding  BreakPoints
+Loading DLL at addr:74FB0000 (C:\WINDOWS\SysWOW64\winspool.drv) size :304128
+Done adding  BreakPoints
+Loading DLL at addr:759B0000 (C:\WINDOWS\SysWOW64\msvcp_win.dll) size :449536
+Done adding  BreakPoints
+Loading DLL at addr:6D4F0000 (C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll) size :1732096
+Done adding  BreakPoints
+Loading DLL at addr:75A30000 (C:\WINDOWS\SysWOW64\ucrtbase.dll) size :1106432
+Done adding  BreakPoints
+Loading DLL at addr:75BD0000 (C:\WINDOWS\SysWOW64\msvcrt.dll) size :722432
+Done adding  BreakPoints
+Loading DLL at addr:75810000 (C:\WINDOWS\SysWOW64\GDI32.dll) size :108544
+Done adding  BreakPoints
+Create thread:14048
+Loading DLL at addr:75790000 (C:\WINDOWS\SysWOW64\win32u.dll) size :21504
+Done adding  BreakPoints
+Loading DLL at addr:771D0000 (C:\WINDOWS\SysWOW64\USER32.dll) size :654336
+Done adding  BreakPoints
+Loading DLL at addr:76150000 (C:\WINDOWS\SysWOW64\gdi32full.dll) size :756736
+Done adding  BreakPoints
+Loading DLL at addr:770A0000 (C:\WINDOWS\SysWOW64\oleaut32.dll) size :552960
+Done adding  BreakPoints
+Loading DLL at addr:75D70000 (C:\WINDOWS\SysWOW64\combase.dll) size :2348544
+Done adding  BreakPoints
+Loading DLL at addr:75CB0000 (C:\WINDOWS\SysWOW64\RPCRT4.dll) size :707584
+Done adding  BreakPoints
+Loading DLL at addr:75130000 (C:\WINDOWS\SysWOW64\version.dll) size :10752
+Done adding  BreakPoints
+Loading DLL at addr:774E0000 (C:\WINDOWS\SysWOW64\advapi32.dll) size :422912
+Done adding  BreakPoints
+Loading DLL at addr:755D0000 (C:\WINDOWS\SysWOW64\sechost.dll) size :417280
+Done adding  BreakPoints
+Loading DLL at addr:76000000 (C:\WINDOWS\SysWOW64\ole32.dll) size :758272
+Done adding  BreakPoints
+Loading DLL at addr:75580000 (C:\WINDOWS\SysWOW64\netapi32.dll) size :51712
+Done adding  BreakPoints
+Loading DLL at addr:6D910000 (C:\WINDOWS\SysWOW64\SHFolder.dll) size :3584
+Done adding  BreakPoints
+Loading DLL at addr:74FA0000 (C:\WINDOWS\SysWOW64\NETUTILS.DLL) size :20992
+Done adding  BreakPoints
+Couldn't find BreakPoint for exception address:777D1B72
+Loading DLL at addr:75BA0000 (C:\WINDOWS\SysWOW64\IMM32.DLL) size :100864
+Done adding  BreakPoints
+Loading DLL at addr:756B0000 (C:\WINDOWS\SysWOW64\Msctf.dll) size :782848
+Done adding  BreakPoints
+Loading DLL at addr:75020000 (C:\WINDOWS\SysWOW64\uxtheme.dll) size :415744
+Done adding  BreakPoints
+Loading DLL at addr:74900000 (C:\WINDOWS\SysWOW64\kernel.appcore.dll) size :27136
+Done adding  BreakPoints
+Loading DLL at addr:760F0000 (C:\WINDOWS\SysWOW64\bcryptPrimitives.dll) size :357376
+Done adding  BreakPoints
+Loading DLL at addr:75140000 (C:\WINDOWS\SysWOW64\wtsapi32.dll) size :35328
+Done adding  BreakPoints
+Loading DLL at addr:70020000 (C:\WINDOWS\SysWOW64\WINSTA.dll) size :240128
+Done adding  BreakPoints
+Loading DLL at addr:61F30000 (C:\WINDOWS\SysWOW64\TextShaping.dll) size :585728
+Done adding  BreakPoints
+Loading DLL at addr:77140000 (C:\WINDOWS\SysWOW64\Shcore.dll) size :487424
+Done adding  BreakPoints
+Loading DLL at addr:6B800000 (C:\WINDOWS\SysWOW64\textinputframework.dll) size :690688
+Done adding  BreakPoints
+Loading DLL at addr:6B580000 (C:\WINDOWS\SysWOW64\CoreUIComponents.dll) size :1490944
+Done adding  BreakPoints
+Loading DLL at addr:6D450000 (C:\WINDOWS\SysWOW64\CoreMessaging.dll) size :411648
+Done adding  BreakPoints
+Loading DLL at addr:75900000 (C:\WINDOWS\SysWOW64\WS2_32.dll) size :287744
+Done adding  BreakPoints
+Loading DLL at addr:74810000 (C:\WINDOWS\SysWOW64\ntmarta.dll) size :125440
+Done adding  BreakPoints
+Loading DLL at addr:660A0000 (C:\WINDOWS\SysWOW64\wintypes.dll) size :772608
+Done adding  BreakPoints
+WARNING: The module C:\WINDOWS\SysWOW64\wintypes.dll was already loaded. Skipping breakpoint generation and coverage for subsequent load.
+UnLoading DLL:03DF0000
+Loading DLL at addr:67080000 (C:\WINDOWS\SysWOW64\DWMAPI.DLL) size :95232
+Done adding  BreakPoints
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+EXCEPTION CODE:0000071A
+Address:76F4B4B2
+EXCEPTION flags:00000001
+---------------Stack trace --------------
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC29AE
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC2961
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CB6CEA
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CB6D53
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CB66EC
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll Stack frame:70031352
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll Stack frame:70030C8A
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CDA9D5
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CDA96D
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC2019
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC1F6D
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC1EDA
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC1DE8
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC1D21
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll Stack frame:75CC1C5B
+Module : C:\WINDOWS\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll Stack frame:70037101
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll Stack frame:70037047
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll Stack frame:70036E25
+Module : C:\WINDOWS\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\WINDOWS\SysWOW64\wtsapi32.dll Stack frame:75142A4A
+Module : C:\WINDOWS\SysWOW64\wtsapi32.dll - no MAP information exists
+Module : C:\Seletivo SoftPlan\ProvaDelphiApp\ProvaDelphiApp.exe Stack frame:0061AB5E
+Exact line:Vcl.Forms line 9719
+Module : C:\Seletivo SoftPlan\ProvaDelphiApp\ProvaDelphiApp.exe Stack frame:00409AC8
+Exact line:System line 23323
+Module : C:\Seletivo SoftPlan\ProvaDelphiApp\ProvaDelphiApp.exe Stack frame:00409ED9
+Exact line:System line 24820
+Module : C:\WINDOWS\SysWOW64\KERNEL32.DLL Stack frame:7761FA29
+Module : C:\WINDOWS\SysWOW64\KERNEL32.DLL - no MAP information exists
+No module found for exception address:77787A7E
+No module found for exception address:77787A4E
+No module found for exception address:77792A7C
+---------------End of Stack trace --------------
+Create thread:14664
+Create thread:13904
+UnLoading DLL:00354000
+Thread exit:14048
+Thread exit:14664
+Thread exit:13904
+Thread exit:4460
+Thread exit:12436
+Process 2608 exiting. Exit code :0
+Finished processing debug events
+ProcedureReport
+Generating reports
+Generating coverage report
+Source dir: 
+Output dir: C:\Seletivo SoftPlan\ProvaDelphiApp\Relatorio Code Coverage\
+Generating xml coverage report
+Generating EMMA file
+Generating EMMA data for module: ModuleInfo[ modulename=ufPrincipal, filename=ufPrincipal.pas ]
+Generating EMMA data for class: TfTarefas
+Generating EMMA data for method: subMenuItemTarefa2Click l:3 c:0
+Generating EMMA data for method: subMenuItemTarefa3Click l:3 c:0
+Generating EMMA data for method: subMenuItemTarefa1Click l:3 c:0
+Generating EMMA data for module: ModuleInfo[ modulename=ufTarefa2, filename=ufTarefa2.pas ]
+Generating EMMA data for class: TfTarefa2
+Generating EMMA data for method: FormClose l:3 c:0
+Generating EMMA data for method: btExecutaThreadClick l:3 c:0
+Generating EMMA data for method: ExecutarThreadProgressos l:4 c:0
+Generating EMMA data for module: ModuleInfo[ modulename=ufTarefa1, filename=ufTarefa1.pas ]
+Generating EMMA data for class: TfTarefa1
+Generating EMMA data for method: GeraSQL l:8 c:0
+Generating EMMA data for method: CarregaPropriedadesListaSQL l:5 c:0
+Generating EMMA data for method: btnGeraSQLClick l:3 c:0
+Generating EMMA data for method: removeLinhasEmBranco l:8 c:0
+Generating EMMA data for method: BloqueiaTeclaEspaco l:4 c:0
+Generating EMMA data for method: FormClose l:3 c:0
+Generating EMMA data for module: ModuleInfo[ modulename=uProgresso, filename=uProgresso.pas ]
+Generating EMMA data for class: TProgresso
+Generating EMMA data for method: InicializaExecucao l:7 c:0
+Generating EMMA data for method: Contagem l:6 c:0
+Generating EMMA data for method: Execute l:5 c:0
+Generating EMMA data for module: ModuleInfo[ modulename=ufTarefa3, filename=ufTarefa3.pas ]
+Generating EMMA data for class: TfTarefa3
+Generating EMMA data for method: btTotalClick l:3 c:0
+Generating EMMA data for method: somaTotal l:11 c:0
+Generating EMMA data for method: carregaValoresProjetos l:4 c:0
+Generating EMMA data for method: criaColunasDataSet l:8 c:0
+Generating EMMA data for method: btTotalDivisoesClick l:3 c:0
+Generating EMMA data for method: criaComponentesDados l:6 c:0
+Generating EMMA data for method: divisao l:6 c:0
+Generating EMMA data for method: preparaGrade l:5 c:0
+Generating EMMA data for method: destruirComponentesDados l:4 c:0
+Generating EMMA data for method: FormClose l:4 c:0
+Generating EMMA data for method: somaTotalDivisoes l:14 c:0
+Generating EMMA data for method: pegaValorAleatorio l:3 c:0
+Generating EMMA data for method: FormCreate l:3 c:0
+Emma file generated
+Finished generating reports
+
+Summary:
+
++-----------+-----------+-----------+
+|   Lines   |  Covered  | Covered % |
++-----------+-----------+-----------+
+|       142 |         0 |       0 % |
++-----------+-----------+-----------+

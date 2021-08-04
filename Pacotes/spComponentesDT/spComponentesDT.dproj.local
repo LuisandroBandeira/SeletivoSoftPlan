@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/03 19:59:50.000.473,=rtl.dcp</Transaction>
+    <Transaction>2021/08/03 20:00:31.000.303,=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/03 20:12:10.000.249,C:\SoftPlan - Prova Delphi - Versão França\pacotes\spComponentesDT\uspComponentesRegistro.pas=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/03 20:12:24.000.672,C:\SoftPlan - Prova Delphi - Versão França\pacotes\spComponentesDT\spComponentesDT.dproj=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/08/03 20:20:09.000.720,=C:\SoftPlan - Prova Delphi - Versão França\pacotes\spComponentes\uspQuery.pas</Transaction>
+    <Transaction>2021/08/03 20:21:42.000.188,=spComponentes.dcp</Transaction>
+    <Transaction>2021/08/03 20:21:50.000.285,C:\SoftPlan - Prova Delphi - Versão França\pacotes\spComponentes\uspQuery.pas=</Transaction>
+    <Transaction>2021/08/03 20:52:06.000.470,=dbrtl.dcp</Transaction>
+    <Transaction>2021/08/03 20:52:06.000.486,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/08/03 20:52:06.000.470,=FireDAC.dcp</Transaction>
+    <Transaction>2021/08/03 20:52:06.000.486,=FireDACCommon.dcp</Transaction>
+    <Transaction>2021/08/03 20:52:06.000.486,=FireDACIBDriver.dcp</Transaction>
+    <Transaction>2021/08/04 12:17:48.000.563,=C:\Seletivo SoftPlan\pacotes\spComponentes\uspQuery.pas</Transaction>
+    <Transaction>2021/08/04 12:23:01.000.489,C:\Seletivo SoftPlan\pacotes\spComponentes\uspQuery.pas=</Transaction>
+    <Transaction>2021/08/04 12:27:24.000.794,=spComponentes.dcp</Transaction>
+    <Transaction>2021/08/04 12:34:24.580,=spComponentes.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

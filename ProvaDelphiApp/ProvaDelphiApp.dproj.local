@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/29 10:20:09.000.109,=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/03 15:20:05.000.734,=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/08/03 15:24:16.000.201,C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\ufPrincipal.pas</Transaction>
+    <Transaction>2021/08/03 15:24:16.000.201,C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\ufPrincipal.dfm</Transaction>
+    <Transaction>2021/08/03 15:24:40.000.515,C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2021/08/03 20:24:16.000.134,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ProvaDelphiApp.dproj=C:\Users\Luisandro\OneDrive\Documentos\Embarcadero\Studio\Projects\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2021/08/03 20:26:47.000.414,=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 20:52:41.000.749,=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 20:53:29.000.351,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa1.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 20:53:29.000.351,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa1.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.dfm</Transaction>
+    <Transaction>2021/08/03 23:06:57.000.873,=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 23:07:29.000.658,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa2.pas</Transaction>
+    <Transaction>2021/08/03 23:07:29.000.658,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa2.dfm</Transaction>
+    <Transaction>2021/08/03 23:21:23.000.442,=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 23:32:55.000.290,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\uProgresso.pas</Transaction>
+    <Transaction>2021/08/03 23:59:35.000.079,=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 23:59:56.000.626,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa3.dfm</Transaction>
+    <Transaction>2021/08/03 23:59:56.000.626,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Unit1.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa3.pas</Transaction>
+    <Transaction>2021/08/04 09:32:34.000.840,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufPrincipal.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufPrincipal.dfm</Transaction>
+    <Transaction>2021/08/04 09:32:34.000.840,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufPrincipal.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufPrincipal.pas</Transaction>
+    <Transaction>2021/08/04 09:32:55.000.755,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa1.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa1.pas</Transaction>
+    <Transaction>2021/08/04 09:32:55.000.755,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa1.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/08/04 09:33:07.000.156,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa2.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa2.dfm</Transaction>
+    <Transaction>2021/08/04 09:33:07.000.156,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa2.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa2.pas</Transaction>
+    <Transaction>2021/08/04 09:33:20.000.875,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa3.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa3.pas</Transaction>
+    <Transaction>2021/08/04 09:33:20.000.875,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa3.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa3.dfm</Transaction>
+    <Transaction>2021/08/04 09:33:35.000.996,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\uProgresso.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\uProgresso.pas</Transaction>
+    <Transaction>2021/08/04 10:55:34.000.254,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufPrincipal.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufPrincipal.pas</Transaction>
+    <Transaction>2021/08/04 10:55:34.000.254,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufPrincipal.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufPrincipal.dfm</Transaction>
+    <Transaction>2021/08/04 10:55:42.000.090,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa1.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa1.pas</Transaction>
+    <Transaction>2021/08/04 10:55:42.000.090,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa1.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/08/04 10:55:50.000.497,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa2.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa2.pas</Transaction>
+    <Transaction>2021/08/04 10:55:50.000.497,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa2.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa2.dfm</Transaction>
+    <Transaction>2021/08/04 10:56:00.000.121,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa3.dfm=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa3.dfm</Transaction>
+    <Transaction>2021/08/04 10:56:00.000.121,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\ufTarefa3.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\ufTarefa3.pas</Transaction>
+    <Transaction>2021/08/04 10:56:07.000.812,C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\Src\uProgresso.pas=C:\SoftPlan - Prova Delphi - Versão França\ProvaDelphiApp\uProgresso.pas</Transaction>
+  </Transactions>
+</BorlandProject>
